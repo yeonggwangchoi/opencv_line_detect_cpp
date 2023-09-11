@@ -1,0 +1,1 @@
+opencv_line_detect_cpp rospackage
